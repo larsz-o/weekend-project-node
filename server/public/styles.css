@@ -1,0 +1,16 @@
+.jumbotron{
+    background-color: #d5e8a9; 
+    color: gray; 
+}
+#salary-table{
+    background-color: #f7f4f9;
+}
+#table-container{
+    margin: 40px; 
+}
+
+#total-container {
+    opacity: 0.9;
+    font-size: 1.25em; 
+    margin-left: 30px; 
+}
